@@ -1,0 +1,8 @@
+## Interface: 60200
+## Title: Translate
+## Sylvain Cristofari
+## Notes: Tranlate words
+## Version: 0.1
+
+Translate.lua
+Localization.lua
