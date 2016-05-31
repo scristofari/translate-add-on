@@ -1,6 +1,6 @@
 ## Interface: 60200
 ## Title: Translate
-## Sylvain Cristofari
+## Author: Sylvain Cristofari
 ## Notes: Tranlate words
 ## Version: 0.1
 
